@@ -1,4 +1,4 @@
-## Hi there 👋
+## yo 
 <!--
 - 🔭 I’m currently lf work
 - 🌱 I’m currently learning c++\cuberseq.
